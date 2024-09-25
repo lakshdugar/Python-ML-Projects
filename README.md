@@ -1,11 +1,4 @@
 # Python-ML-Projects
-## Getting Started
-To explore the insights:
-1. Review the [KickStarter.pdf](https://github.com/user-attachments/files/16780669/KickStarter.pdf) for detailed analysis and findings.
-2. Use the  [Presentation.pptx](https://github.com/user-attachments/files/16780676/Presentation.pptx) to present the insights to others.
-
-Feel free to explore the files, and let me know if you have any questions or need further assistance!
-
 # Advertisement Classification ML Model
 
 ## Introduction
